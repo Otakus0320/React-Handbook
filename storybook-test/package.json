@@ -14,8 +14,11 @@
   "dependencies": {
     "@storybook/jest": "^0.2.2",
     "@storybook/testing-library": "^0.2.1",
+    "classnames": "^2.5.1",
+    "dayjs": "^1.11.13",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "sass": "^1.86.0"
   },
   "devDependencies": {
     "@chromatic-com/storybook": "^3.2.6",

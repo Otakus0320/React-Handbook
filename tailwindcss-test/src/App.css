@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@theme{
+  --padding-1: 30px;
+  --text-base: 0.625rem;
+  --text-base--line-height: 1.5rem;
+  --breakpoint-md: 600px;
+}
